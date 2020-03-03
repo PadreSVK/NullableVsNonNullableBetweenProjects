@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnableNullable", "EnableNul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonNullable", "NonNullable\NonNullable.csproj", "{B023AE2E-F183-4077-8F7E-EAFB6E95E91A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppNonNullable", "ConsoleApp2\ConsoleAppNonNullable.csproj", "{38AC1038-9F13-4338-A867-00DC1C1507ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B023AE2E-F183-4077-8F7E-EAFB6E95E91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B023AE2E-F183-4077-8F7E-EAFB6E95E91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B023AE2E-F183-4077-8F7E-EAFB6E95E91A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38AC1038-9F13-4338-A867-00DC1C1507ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AC1038-9F13-4338-A867-00DC1C1507ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AC1038-9F13-4338-A867-00DC1C1507ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AC1038-9F13-4338-A867-00DC1C1507ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
